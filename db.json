@@ -1,0 +1,26 @@
+{
+  "posts": [
+    {
+      "userId": 1,
+      "id": 1628325868561,
+      "title": "qui commodi dolor at maiores et quis id accusantium",
+      "body": "perspiciatis et quam ea autem temporibus non voluptatibus qui\\nbeatae a earum officia nesciunt dolores suscipit voluptas et\\nanimi doloribus cum rerum quas et magni\\net hic ut ut commodi expedita sunt"
+    },
+    {
+      "userId": 1,
+      "id": 1628326129003,
+      "title": "aliquid eos sed fuga est maxime repellendus",
+      "body": "reprehenderit id nostrum\\nvoluptas doloremque pariatur sint et accusantium quia quod aspernatur\\net fugiat amet\\nnon sapiente et consequatur necessitatibus molestiae"
+    },
+    {
+      "userId": 1,
+      "id": 1628326153237,
+      "title": "fugiat quod pariatur odit minima",
+      "body": "magnam molestiae perferendis quisquam\\nqui cum reiciendis\\nquaerat animi amet hic inventore\\nea quia deleniti quidem saepe porro velit"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
